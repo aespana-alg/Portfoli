@@ -1,0 +1,102 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+ul{
+  list-style-type: none;
+  text-align: right;
+}
+li{
+  display: inline-block;
+padding: 10px;
+  padding-right: 5px;
+  padding-left: 5px;
+  padding-top: 15px;
+}
+.clar{
+}
+a:hover{
+  color: blue;
+}
+a{
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+h2{
+  font-family: Helvetica, Arial, sans-serif;
+  width: 400px;
+  padding: 40px;
+  font-size: 40px;
+}
+p{
+  width: 400px;
+  padding:0 40px;
+  font-size: 25px;
+}
+#cabecera{
+  background-repeat: no-repeat;
+  background-image:url("img/feedly-logo-small-black.png");
+  background-position:20px 5px;
+  height: 40px;
+}
+div{
+  background-repeat: no-repeat;
+  background-position: 500px 0;
+}
+#coneix{
+  background-color: #6C3;
+  height: 550px;
+  background-image:url("img/anywhere.png");
+
+}
+#tot{
+  background-color: #FFF;
+  height: 641px;
+  background-image: url("img/mobile-home.png");
+}
+#util{
+  background-color: #333333;
+  height: 500px;
+  background-image: url("img/curator-short.png");
+  
+}
+#rapid{
+  background-color:#EEECEE;
+  height: 550px;
+  background-image: url("img/img-hero-full-list.png");
+}
+#facil{
+  background-color: #6C3;
+  height: 550px;
+  background-image: url("img/mobile-share.png");
+  background-position: bottom;
+  background-position: 500px 20px;
+}
+#atot{
+  background-color: #EEECEE;
+  height: 643px;
+  background-image: url("img/anywhere.png");
+  background-position: bottom;
+  background-position: 520px;
+}
+#pie{
+  background-color: #333333;
+  height: 150px;
+  text-align: center;
+  padding-top: 50px
+}
+#pie a{
+  padding-right: 20px;
+}
+.boton{
+  height: 200px;
+  width: 200px;
+  background-color: rgba(255, 10, 34, 0.5);
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  border-radius: 100px;
+  text-align: center;
+
+}
