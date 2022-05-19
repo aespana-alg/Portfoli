@@ -1,0 +1,47 @@
+13*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-image: url("https://img.freepik.com/vector-gratis/fondo-geometrico-abstracto-negro_67845-124.jpg");
+
+}
+#cabecera{
+  width: 100%;
+  height: 120px;
+}
+#coche{
+}
+h1{
+  font-size: 50px;
+  text-align: center;
+  color: white;
+  font-family: prisma;
+}
+#contenedor{
+  width: 60%;
+  height: 905px;
+  float: left;
+}
+.bola{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background-color: grey;
+  float: left;
+  margin-top: 80px;
+  margin-right: 70px;
+  margin-left: 20px;
+}
+p{
+  font-size: 42px;
+  text-align: center;
+  margin-top: 70px;
+}
+#srt{
+  height: 700px;
+  width: 600px;
+  float: right;
+  margin-right: -700px;
+    margin-top: -230px;
+}
